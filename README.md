@@ -1,4 +1,4 @@
-# Ruby .SHP to .KML Converter
+# Ruby USA Zipcodes .SHP to .KML Converter
 
 This script will iterate through a rather massive shapefile and using a public source csv of zipcodes, you can filter by state or run the entire country and output a custom KML file. I was unable to find a KML in the style and structure that I needed.
 
